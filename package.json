@@ -1,0 +1,19 @@
+{
+  "name": "petube",
+  "version": "0.0.0",
+  "description": "petube make 1day 1commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiccioRyu/petube.git"
+  },
+  "author": "riccio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiccioRyu/petube/issues"
+  },
+  "homepage": "https://github.com/RiccioRyu/petube#readme"
+}
